@@ -1,0 +1,1 @@
+# resource_in_2_regions
